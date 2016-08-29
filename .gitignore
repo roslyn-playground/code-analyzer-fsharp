@@ -1,0 +1,8 @@
+.vs
+packages
+bin
+obj
+*~*
+*.swp
+build.sh
+tools
