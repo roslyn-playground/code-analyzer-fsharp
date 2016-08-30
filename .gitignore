@@ -6,3 +6,4 @@ obj
 *.swp
 build.sh
 tools
+*.zip
